@@ -1,0 +1,19 @@
+{
+  "name": "ts-jest-mock-examples",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.17",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  },
+  "engines": {
+    "node": "13.x"
+  },
+  "devDependencies": {}
+}
